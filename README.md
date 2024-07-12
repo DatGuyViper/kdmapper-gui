@@ -1,8 +1,16 @@
 # KDMapper
+I added a simple gui using Windows API
+
+
+![image](https://github.com/user-attachments/assets/ef162659-accf-4074-851c-ac93c7e64cf3)
+
+
 
 Original creator https://github.com/z175
 
 Updated and improved by https://github.com/TheCruZ
+
+Gui added by https://github.com/V1P34/
 
 Mdl allocation writed by https://github.com/TygoL
 
@@ -10,11 +18,8 @@ Independent Pages allocation written by https://github.com/Herooyyy/
 
 Tested from **Windows 10 1607** to **Windows 11 22449.1** :heavy_check_mark:
 
-Update mainly done for UnknownCheats Forum https://www.unknowncheats.me/forum/members/1117395.html
-
 KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory
 
-**Note:** Add definition **DISABLE_OUTPUT** to remove all console outputs
 
 **Note:** Can be recommended like in the past set a custom entry point like in the HelloWorld example to reduce the generated code in the binary
 
